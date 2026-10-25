@@ -1,0 +1,5 @@
+# Lectura de PDF
+PyMuPDF>=1.24,<2
+
+# Interfaz local
+streamlit>=1.38,<2
